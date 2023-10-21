@@ -9,4 +9,5 @@
 [ ] manzanas
 ## *Mercadona*
 [ ] pan semillas  
-[ ] detergente
+[ ] detergente  
+[ ] helado coco
