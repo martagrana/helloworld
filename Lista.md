@@ -1,12 +1,12 @@
 # **Lista de la compra**
-## *Gadis*
-### [ ] cafe
-### [ ] arroz sushi
-### [ ] sal
+## *Gadis*  
+ [ ] cafe  
+ [ ] arroz sushi  
+ [ ] sal  
 ## *Eroski*
-### [ ] leche
-### [ ] yogures
-### [ ] manzanas
+[ ] leche  
+[ ] yogures  
+[ ] manzanas
 ## *Mercadona*
-### [ ] pan semillas
-### [ ] detergente
+[ ] pan semillas  
+[ ] detergente
