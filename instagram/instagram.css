@@ -34,3 +34,19 @@
 .numero {
     font-weight: bold;
 }
+
+.contenedor-post {
+    clear: both;
+    margin-top: 40px;
+    padding: 15px;
+}
+
+.contenedor-img-post {
+    float: left;
+}
+
+.img-post {
+    width: 200px;
+    height: 200px;
+    margin: 2px;
+}
