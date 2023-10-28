@@ -1,0 +1,36 @@
+.cabecera-instagram {
+    margin-top: 40px;
+    padding: 15px;
+
+}
+
+.nombre-de-usuario {
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.foto-usuario {
+    float: left;
+    padding: 20px;
+}
+
+.nombre-real {
+    text-align: center;
+}
+
+.img-usuario {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.datos-cuenta {
+    float: left;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.numero {
+    font-weight: bold;
+}
