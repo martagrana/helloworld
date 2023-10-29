@@ -42,10 +42,29 @@
     padding: 15px;
 }
 
-.contenedor-img-post {}
+.contenedor-img-post {
+    border-color: green;
+
+}
+
+.contenedor-img-post:hover {
+    border: 1px solid red;
+}
 
 .img-post {
     width: 200px;
     height: 200px;
     margin: 2px;
+}
+
+div {
+    border: 1px solid blue;
+}
+
+#foto-principal {
+    border-color: red;
+}
+
+#pikachu {
+    border-color: yellow;
 }
